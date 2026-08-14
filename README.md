@@ -16,4 +16,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
