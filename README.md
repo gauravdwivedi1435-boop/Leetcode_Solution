@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0279-perfect-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0279-perfect-squares) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1952-three-divisors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -35,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0279-perfect-squares) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
