@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0001-two-sum) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
