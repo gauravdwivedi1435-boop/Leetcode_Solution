@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1952-three-divisors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2652-sum-multiples](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2652-sum-multiples) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
