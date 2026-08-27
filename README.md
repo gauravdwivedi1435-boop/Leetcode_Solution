@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0279-perfect-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0279-perfect-squares) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1952-three-divisors) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
