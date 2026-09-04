@@ -1,38 +1,37 @@
 class Solution {
-    public int romanToInt(String s) {
-        HashMap<Character,Integer> s1=new HashMap<>();
-        s1.put('I',1); s1.put('V',5);
-        s1.put('X',10); s1.put('L',50);
-        s1.put('C',100); s1.put('D',500);
-        s1.put('M',1000);
-
-        
-
-
-        // char[] s2=new char[s.length()];
-        // s2=s.toCharArray();
-        int sum=0;
-
-        for(int i=0;i<s.length();i++){
-            int value=s1.get(s.charAt(i));
-           // check if next character has larger value
-            if(i+1<s.length() && value<s1.get(s.charAt(i+1)) ){
-                sum=sum-value;
-            }
-            else{
-                sum+=value;
-            }
-
-
-                // if(s2[i]==s1.get(s2[i])){
-                //     sum=sum+s1.get(s2[i]);
-                // }
-            
+    public int value(char ch) {
+        switch (ch) {
+            case 'I': return 1;
+            case 'V': return 5;
+            case 'X': return 10;
+            case 'L': return 50;
+            case 'C': return 100;
+            case 'D': return 500;
+            case 'M': return 1000;
+            default: return 0;
         }
+    }
+    public int romanToInt(String s) {
+        int result = 0;
 
-    return sum;
+        for(int i = 0; i < s.length(); i++) {
+            char current = s.charAt(i);
+            int currentValue = value(current);
 
-       } 
+            if (i + 1 < s.length()) {
+                char next = s.charAt(i+1);
+                int nextValue = value(next);
 
-
+                if (currentValue < nextValue) {
+                    result -= currentValue;
+                } else {
+                    result += currentValue;
+                }
+            }
+            else {
+                result += currentValue;
+            }
+        }
+        return result;
+    }
 }
