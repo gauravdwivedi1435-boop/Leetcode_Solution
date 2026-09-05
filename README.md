@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1952-three-divisors) |
+| [2235-add-two-integers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2652-sum-multiples](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2652-sum-multiples) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
