@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0279-perfect-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1390-four-divisors) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0279-perfect-squares) |
+| [0509-fibonacci-number](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2574-left-and-right-sum-differences) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
