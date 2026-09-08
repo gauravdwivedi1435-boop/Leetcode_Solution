@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
