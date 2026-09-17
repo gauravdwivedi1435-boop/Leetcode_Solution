@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0279-perfect-squares) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0412-fizz-buzz) |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
