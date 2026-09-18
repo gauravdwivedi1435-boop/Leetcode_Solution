@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Dynamic Programming
 |  |
 | ------- |
