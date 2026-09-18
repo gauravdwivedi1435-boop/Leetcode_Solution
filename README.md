@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0412-fizz-buzz) |
+| [0551-student-attendance-record-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0551-student-attendance-record-i) |
 ## Prefix Sum
 |  |
 | ------- |
