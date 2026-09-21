@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0551-student-attendance-record-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
