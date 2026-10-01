@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -189,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
