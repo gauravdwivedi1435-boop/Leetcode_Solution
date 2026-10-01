@@ -24,7 +24,7 @@ class Solution {
         curr=head;
         //remove the node
         //first iterate till n-1 node
-        for(int i=0;i<k-1;i++){
+        for(int i=1;i<k;i++){
             curr=curr.next;
         }
         // now remove the node
