@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 ## Quicksort
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
