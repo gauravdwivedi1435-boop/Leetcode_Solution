@@ -8,33 +8,28 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ //by use of fast and slow pointer
+
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode curr=head;
-        int l=0;
-        //calculate length
-        while(curr!=null){
-            l+=1;
-            curr=curr.next;
+        ListNode p1=head;
+        ListNode p2=head;
+        for(int i=0;i<n;i++){
+            p2=p2.next;
         }
-        if(l==n){
-            return head.next;
-        }
-        int k=l-n;
-        curr=head;
-        //remove the node
-        //first iterate till n-1 node
-        for(int i=1;i<k;i++){
-            curr=curr.next;
-        }
-        // now remove the node
-        if(curr==null || curr.next==null){
+        //check is p2 is null , is n and List length is equal
+        if(p2==null){
+            head=head.next;
             return head;
         }
-        curr.next=curr.next.next;
+        // now start p1
+        while(p2.next!=null){
+            p1=p1.next;
+            p2=p2.next;
+        }
 
+        p1.next=p1.next.next;
 
         return head;
-        
     }
 }
