@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0665-non-decreasing-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1390-four-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1390-four-divisors) |
