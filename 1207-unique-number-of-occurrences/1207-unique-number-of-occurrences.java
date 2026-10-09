@@ -10,20 +10,13 @@ class Solution {
                 a.put(ele,1);
             }
         }
+        HashSet<Integer> freqSet=new HashSet<>();
         for(int ele:a.keySet()){
-            int count=0;
             int freq=a.get(ele);
-            for(int ele1:a.keySet()){
-                int freq1=a.get(ele1);
-                if(freq==freq1){
-                    count++;
-                }
-            }
-            if(count>1){
-                return false;
-            }
+            freqSet.add(freq);
+
         }
 
-        return true;
+        return a.size()==freqSet.size();
     }
 }
