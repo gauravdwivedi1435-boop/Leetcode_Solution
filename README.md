@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1390-four-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
