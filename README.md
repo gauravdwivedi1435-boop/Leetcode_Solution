@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
