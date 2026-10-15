@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0551-student-attendance-record-i) |
+| [0771-jewels-and-stones](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0771-jewels-and-stones) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
