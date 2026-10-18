@@ -6,8 +6,6 @@ for (int ele : arr) {
 }
 
 HashSet<Integer> freqSet = new HashSet<>(freqMap.values());
-return freqSet.size() == freqMap.size();
-
-        
+return freqSet.size() == freqMap.size();   
     }
 }
