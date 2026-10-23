@@ -39,17 +39,13 @@ public class Solution {
             }
         }
         curr=tempB;
-
-        while(tempA!=null){
-            tempB=curr;
-            while(tempB!=null){
-                if(tempA==tempB){
-                    return tempA;
-                }
-                tempB=tempB.next;
-            }
-            tempA=tempA.next;
-        }
+        while(tempA != null && tempB != null){
+    if(tempA == tempB){
+        return tempA;
+    }
+    tempA = tempA.next;
+    tempB = tempB.next;
+}
         return null;
     }
 }
