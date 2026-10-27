@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,8 +223,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
