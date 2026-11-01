@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0155-min-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
