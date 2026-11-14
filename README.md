@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2126-destroying-asteroids](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2126-destroying-asteroids) |
 | [2574-left-and-right-sum-differences](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [2126-destroying-asteroids](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2126-destroying-asteroids) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2126-destroying-asteroids](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2126-destroying-asteroids) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
 |  |
