@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
