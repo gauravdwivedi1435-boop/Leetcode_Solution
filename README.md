@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1952-three-divisors) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1323-maximum-69-number](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1323-maximum-69-number) |
 | [2126-destroying-asteroids](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2126-destroying-asteroids) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
