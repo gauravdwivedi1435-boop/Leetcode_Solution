@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
