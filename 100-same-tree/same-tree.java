@@ -13,10 +13,10 @@ class Solution {
             arr[0]=0;
             return;
         }
-        if(p.val==q.val) {
+        
             check(p.left,q.left,arr);
             check(p.right,q.right,arr);
-        }
+        
           
     }
 }
