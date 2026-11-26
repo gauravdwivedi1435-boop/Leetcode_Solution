@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2544-alternating-digit-sum](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/2652-sum-multiples) |
+| [3360-stone-removal-game](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
