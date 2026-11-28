@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravdwivedi1435-boop/Leetcode_Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
